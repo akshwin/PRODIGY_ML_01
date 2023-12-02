@@ -103,7 +103,7 @@ print(f"Gradient Boosting Regressor Test Score: {gbcl_test_score}")
 
 In conclusion, this project provides a step-by-step guide on predicting house prices using machine learning models. The accuracy of each model is compared, and the Gradient Linear Regressor demonstrates the highest accuracy in this specific scenario. 
 
-]- **Linear Regression: 100.0%**
+ **Linear Regression: 100.0%**
   - The Linear Regression model achieved perfect accuracy on the test dataset.
 
 - **Decision Tree Regressor: 99.2%**
