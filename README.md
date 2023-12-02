@@ -103,8 +103,17 @@ print(f"Gradient Boosting Regressor Test Score: {gbcl_test_score}")
 
 In conclusion, this project provides a step-by-step guide on predicting house prices using machine learning models. The accuracy of each model is compared, and the Gradient Linear Regressor demonstrates the highest accuracy in this specific scenario. 
 
-**The accuracy using Linear regression is 100.0 %** 
-**The accuracy using Decision Tree Regressor is 99.2 %**
-**The accuracy using Bagging Regressor is 99.5 %**
-**The accuracy using Random Forest Regressor is 99.5 %**
-**The accuracy using XGB Regressor is 99.6 %**
+]- **Linear Regression: 100.0%**
+  - The Linear Regression model achieved perfect accuracy on the test dataset.
+
+- **Decision Tree Regressor: 99.2%**
+  - The Decision Tree Regressor demonstrated a high accuracy of 99.2% on the test dataset.
+
+- **Bagging Regressor: 99.5%**
+  - The Bagging Regressor, employing an ensemble of Decision Trees, achieved an accuracy of 99.5%.
+
+- **Random Forest Regressor: 99.5%**
+  - The Random Forest Regressor, a powerful ensemble model, exhibited an accuracy of 99.5% on the test dataset.
+
+- **XGB Regressor: 99.6%**
+  - The XGB Regressor, utilizing gradient boosting, outperformed other models with an accuracy of 99.6%.
